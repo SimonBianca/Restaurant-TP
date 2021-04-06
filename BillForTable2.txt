@@ -1,0 +1,7 @@
+  Bill for Table2
+
+Ordered menu items:
+salata de fructe  14.0
+pizza  21.0
+
+Total price:35.0
